@@ -1,0 +1,115 @@
+@import "tailwindcss";
+
+body {
+    overflow: hidden;
+}
+
+.stories {
+    scrollbar-width: none;
+}
+
+.content {
+    scrollbar-width: none;
+}
+
+.feedConatiner {
+    scrollbar-width: none;
+
+}
+
+.chats {
+    scrollbar-width: none;
+}
+
+.chatContainer {
+    scrollbar-width: none;
+    overflow-y: scroll;
+}
+
+.PopProfile {
+    scrollbar-width: none;
+
+}
+
+.exploreContent {
+    scrollbar-width: none;
+
+}
+
+.notesContainer {
+    scrollbar-width: none;
+}
+
+.MidSection {
+    scrollbar-width: none;
+}
+
+.storiesBorder {
+    background: linear-gradient(to right top, #ffc800, #ffc800, red, rgb(248, 33, 69), rgb(229, 9, 229));
+}
+
+
+
+.feedDesc {
+    scrollbar-width: none;
+
+}
+
+.Pofile {
+    scrollbar-width: none;
+
+}
+
+.highLightContainer {
+    scrollbar-width: none;
+}
+
+.miniCahtContainer {
+    scrollbar-width: none;
+}
+
+.instalogoBack {
+    background: linear-gradient(to right top, #ffc800, #ffc800, red, rgb(248, 33, 69), rgb(255, 40, 255), rgb(255, 7, 255));
+}
+
+.RequestScroller {
+    scrollbar-width: none;
+}
+
+.SeeAllPopPro {
+    scrollbar-width: none;
+}
+
+.chatBox {
+    scrollbar-width: none;
+}
+
+.notificationContainer {
+    scrollbar-width: none;
+}
+
+.newMesageContainer {
+    scrollbar-width: none;
+}
+
+.ArchivedStoriesContainer {
+    scrollbar-width: none;
+}
+
+.highlightEffect {
+    scrollbar-width: none;
+}
+
+.searchScroller {
+    scrollbar-width: none;
+}
+.storyScroller {
+    scrollbar-width: none;
+}
+.settingsScroller {
+    scrollbar-width: none;
+}
+
+.storyContentContainer {
+    background: linear-gradient(to bottom, transparent, transparent, #000);
+}
